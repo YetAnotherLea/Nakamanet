@@ -1,6 +1,6 @@
 # NAKAMANET — le réseau des fans de manga & d'anime
 
-![screenshot](./docs/screenshot.png)
+![screenshot](preview.webp)
 
 <p align="center">
   <img loading="lazy" src="https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white"/>
